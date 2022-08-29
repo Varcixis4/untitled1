@@ -8,6 +8,8 @@ import java.io.InputStreamReader;
 // test_02 for new brance
 // new brancge is "testin_git"
 
+// a potom poidem na more
+
 public class Main
 {
     public static void main(String[] args) throws IOException
