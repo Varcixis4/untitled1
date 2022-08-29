@@ -5,6 +5,9 @@ import java.io.InputStreamReader;
 // test pour Git
 // new stings
 
+// test_02 for new brance
+// new brancge is "testin_git"
+
 public class Main
 {
     public static void main(String[] args) throws IOException
