@@ -5,8 +5,10 @@ import java.io.InputStreamReader;
 // test pour Git
 // new stings
 
-// test_02 for new brance
+// test_02 for new branche
 // new brancge is "testin_git"
+
+// a potom poidem na more
 
 public class Main
 {
